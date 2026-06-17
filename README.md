@@ -17,7 +17,7 @@ A collection of data analytics projects focused on public health, wellness, and 
 
 | # | Project | Description | Tools | Dashboard |
 |---|---|---|---|---|
-| 1 | [Mental Health in America (2015)](./mental-health-2015(https://github.com/kswl4/Mental-Health-2015)) | Analyzed CDC survey data from 330,000+ Americans to explore how age, income, and exercise affect mental health outcomes | Python · Tableau | [View](https://public.tableau.com/app/profile/kiasha.williams/viz/MentalHealthonAmerica2015/Dashboard1) |
+| 1 | [Mental Health in America (2015)](https://github.com/kswl4/Mental-Health-2015)) | Analyzed CDC survey data from 330,000+ Americans to explore how age, income, and exercise affect mental health outcomes | Python · Tableau | [View](https://public.tableau.com/app/profile/kiasha.williams/viz/MentalHealthonAmerica2015/Dashboard1) |
 | 2 | Coming Soon | | | |
 | 3 | Coming Soon | | | |
 
